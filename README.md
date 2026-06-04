@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4facfe,100:00f2fe&text=Hitesh%20Maurya&fontSize=45&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Backend+Enthusiast;DSA+Learner;Building+Cool+Stuff&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Backend;DSA;Building+Cool+Stuff&center=true&width=600&height=45">
 </p>
 
 
@@ -93,9 +93,8 @@ Currently exploring backend engineering, distributed systems fundamentals, and s
 
 ## 📫 Connect With Me
 
-* LinkedIn: YOUR_LINKEDIN
-* GitHub: YOUR_GITHUB
-* Email: YOUR_EMAIL
+* LinkedIn: https://www.linkedin.com/in/hiteshm1/
+* Email: Hiteshmaurya@icloud.com
 
 ---
 
